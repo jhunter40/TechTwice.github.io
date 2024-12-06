@@ -1,0 +1,58 @@
+body{
+    font-family: gill sans, sans-serif;
+    background-image: url(Images/bgimage.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    
+    
+}
+
+.signuprow {
+    display:flex;
+    flex-direction: row;
+   
+}
+
+.containertop .title{
+    color:white;
+   
+    
+    padding-left: 20px;
+
+    
+}
+
+.signup .btn{
+    background-color:rgb(95, 132, 233);
+    font-size: larger;
+    
+}
+
+.imagecontainer{
+    width:540px;
+    height: 540px;
+    
+    
+}
+
+
+
+
+
+.imagecontainer .titleimage{
+    position: absolute;
+    left: 72%;
+    top: 54%;
+    transform: translate(-50%, -50%);
+    
+
+
+
+}
+
+
+
+
+
+

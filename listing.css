@@ -1,0 +1,106 @@
+body{
+    font-family: gill sans, sans-serif;
+    background-image: url(Images/bgimage.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    
+    
+}
+
+.signuprow {
+    display:flex;
+    flex-direction: row;
+   
+}
+
+.containertop .title{
+    color:white;
+   
+    
+    padding-left: 20px;
+    
+
+    
+}
+
+.tagline {
+    font-family: Georgia, serif;
+    color:white;
+}
+
+.nav-pills .nav-link{
+    background-color:rgb(95, 132, 233);
+}
+.carousel-item img{
+    width: 700px;
+    height: 700px;
+}
+
+.nav .welcomehd{
+    font-family: Georgia, serif;
+}
+
+
+.card{
+    transition: all 0.4;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+
+.nav-item:hover{
+    transform: scale(1.05);
+    
+
+}
+
+.iconbtn:hover {
+    transform: scale(1.30);
+    
+
+}
+
+.cardorder{
+    background-color: white;
+}
+
+.card-body .card-link:hover{
+    transform: scale(1.05);
+
+}
+
+
+
+
+
+
+.orderdetails .orderNo{
+    font-family: Georgia, serif;
+
+}
+
+.cart-btn:hover{
+    transform: scale(1.05);
+    
+}
+
+
+
+
+ 
+   
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
